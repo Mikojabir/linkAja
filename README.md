@@ -10,7 +10,7 @@ In a web browser, navigate to https://nodejs.org/en/download/
 npm install -g newman-reporter-htmlextr
 
 3. clone repository:
-https://github.com/Mikojabir/linkAja_.git
+https://github.com/Mikojabir/linkAja.git
 
 4. go to file into "Linkaja.postman_collection.json" 
 - if you can run only postman, import collection into your postman and after importing, run collection.
