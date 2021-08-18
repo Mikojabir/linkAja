@@ -7,7 +7,7 @@ How to run and create report:
 In a web browser, navigate to https://nodejs.org/en/download/
 
 2. install Newman Report:
-npm install -g newman-reporter-htmlextr
+npm install -g newman-reporter-htmlextra
 
 3. clone repository:
 https://github.com/Mikojabir/linkAja.git
